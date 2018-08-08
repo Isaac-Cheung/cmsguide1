@@ -427,6 +427,82 @@ Users can filter different groups of customers easily by selecting the criteria 
       - Show Customer with The Rank Name Field is "Gold"
     * - Get Membership(Platinum)
       - Show Customer with The Rank Name Field is "Platinum"
+      
+Customer Report
+==================
+Users can export different kinds Customer Report by select the types of report from the dropdown list of the “Tools” button.
+
+|customerlist_report|
+
+Export Customer Report
+------------------
+Users can export the basic details of targeted customer into Excel format by clicking “Export Customer Report” in the “Tools” button dropdown list.
+
+.. list-table:: Customer Report
+    :widths: 10 50
+    :header-rows: 1
+    :stub-columns: 1
+
+    * - FIELD NAME
+      - FIELD DESCRIPTION
+    * - SN
+      - The Customer ID
+    * - Email
+      - The Customer Email
+    * - Facebook ID
+      - The Facebook ID of The Customers
+    * - Date of link up with Facebook
+      - The Date of Linking Up The Customer FB Account with Ztore
+    * - Title
+      - The Title of The Customer
+    * - First Name
+      - The Customer First Name
+    * - Last Name
+      - The Customer Last Name
+    * - Birthday
+      - The Customer Birthday
+    * - Contact No
+      - The Contact Number of The Customer
+    * - Mobile
+      - The Mobile Number of The Customer
+    * - Company
+      - The Customer Working Company
+    * - Z-Dollar
+      - The Amount of Z-Dollar of The Customer
+    * - Zmile
+      - The Zmile of The Customer
+    * - Rank Name
+      - The Customer Rank
+    * - Rank Updated Date
+      - The Latest Date of Rank Updated
+    * - Rank Expiry Date
+      - The Expiry Date of The Customer Rank
+    * - Register Date
+      - The Register Date of The Customer Account
+    * - Total GMV
+      - The Total Gross Merchandising Value purchased by The Customer
+    * - No. of Purchase
+      - The Number of Purchase Made by The Customer
+    * - Total Discounted
+      - The Total Discounted Value of The Customer
+    * - First Purchase Date
+      - The Date of First Purchase of The Customer
+    * - First Order SN
+      - The Order ID of The First Order 
+    * - Last Purchase Date
+      - The Latest Date of Purchase made by The Customer
+    * - No. of Referral
+      - The Number of Referral The Customer have
+    * - Referral by customer ID
+      - The Customer ID of The Referrer
+    * - Referral by customer Email
+      - The Customer Email of The Referrer
+    * - Remark
+      - The Additional Information of The Customer)
+    * - Address (Last Used)
+      - The Latest Address Used by The Customer
+    * - Address Distinction
+      - Commercial/Non-commercial
 
 
 .. |customerlist| image:: customerlist.JPG
@@ -440,4 +516,5 @@ Users can filter different groups of customers easily by selecting the criteria 
 .. |customerlist_edit6| image:: customerlist_edit6.JPG
 .. |customerlist_edit8| image:: customerlist_edit8.JPG
 .. |customerlist_othersearch| image:: customerlist_othersearch.JPG
+.. |customerlist_report| image:: customerlist_report.JPG
 
