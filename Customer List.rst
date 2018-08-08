@@ -97,3 +97,4 @@ The Buttons on top of The Table allow users to find The Target Customers they ar
 
 
 .. |customerlist| image:: customerlist.JPG
+.. |customerlist_buttons| image:: customerlist_buttons.JPG
