@@ -605,6 +605,41 @@ Users can export the ordering details of targeted customer into Excel format by 
       - Levelup / Renew : reduce the next / current grade condition zmile
         Downgrade : reduce all Zmile
 
+Export Membership Redemption Report
+------------------
+Users can see the redemption progress of selected customers in Excel format.
+
+.. list-table:: Customer Report
+    :widths: 10 50
+    :header-rows: 1
+    :stub-columns: 1
+
+    * - FIELD NAME
+      - FIELD DESCRIPTION
+    * - SN
+      - The Customer ID
+    * - Email
+      - The Customer Email
+    * - Title
+      - The Customer Title
+    * - First Name
+      - The First Name of The Customer
+    * - Last Name
+      - The Last Name of The Customer
+    * - Current membership tier
+      - The Current Membership Rank of The Customer
+    * - Coupon quota
+      - The Upper Limit of Coupons received by The Customer
+    * - Product quota
+      - The Upper Limit of Product Redemptions received by The Customer
+    * - Event quota
+      - The Upper Limit of Event Redemptions received by The Customer
+    * - Coupon redemption
+      - The Amount of Coupons received by The Customer
+    * - Product redemption
+      - The Amount of Product Redemptions received by The Customer
+    * - Event redemption
+      - The Amount of Event Redemptions received by The Customer
 
 
 .. |customerlist| image:: customerlist.JPG
