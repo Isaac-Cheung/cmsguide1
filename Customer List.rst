@@ -295,6 +295,108 @@ Edit - Current Cart Product
       - The Stock Type of The Product
     * - Sub-Total
       - The Total Value of The Single Product in The Shopping Cart
+      
+Edit - Current Unused Reward
+------------------
+
+|customerlist_edit5|
+
+.. list-table:: Edit Current Unused Reward
+    :widths: 10 50
+    :header-rows: 1
+    :stub-columns: 1
+
+    * - FIELD NAME
+      - FIELD DESCRIPTION
+    * - Type
+      - The Reward Type
+    * - Title
+      - The Title of Reward
+    * - Brand
+      - The Brand of The Reward Applied to
+    * - Code
+      - The Reward Code
+    * - Redemption ID
+      - The Redemption ID of The Reward
+    * - Date
+      - The Date of Earning The Reward
+      
+Edit - Z-Dollar History
+------------------
+
+|customerlist_edit6|
+
+.. list-table:: Edit Z-Dollar History
+    :widths: 10 50
+    :header-rows: 1
+    :stub-columns: 1
+
+    * - FIELD NAME
+      - FIELD DESCRIPTION
+    * - Order ID
+      - The Order ID
+    * - Z-Dollar Change
+      - The Change Amount of Z-Dollar
+    * - Z-Dollar Remain
+      - The Remaining Amount of Z-Dollar
+    * - Type
+      - The Type of Z-Dollar Offer
+    * - Remark
+      - The Additional Information of Z-Dollar History
+    * - Created By
+      - The Person who Created The Z-Dollar Offer
+    * - Created At
+      - The Time when The Z-Dollar Offer Created]
+      
+Edit - Zmile History
+------------------
+
+|customerlist_edit7|
+
+.. list-table:: Edit Zmile History
+    :widths: 10 50
+    :header-rows: 1
+    :stub-columns: 1
+
+    * - FIELD NAME
+      - FIELD DESCRIPTION
+    * - Order ID
+      - The Order ID
+    * - Zmile Change
+      - The Change Amount of Zmile
+    * - Zmile Remain
+      - The Remaining Amount of Zmile
+    * - Type
+      - The Type of Zmile Offer
+    * - Remark
+      - The Additional Information of Zmile History
+    * - Created By
+      - The Person who Created The Zmile Offer
+    * - Created At
+      - The Time when The Zmile Offer Created
+      
+Edit - Admin Update Log
+------------------
+
+|customerlist_edit8|
+
+.. list-table:: Edit - Admin Update Log
+    :widths: 10 50
+    :header-rows: 1
+    :stub-columns: 1
+
+    * - FIELD NAME
+      - FIELD DESCRIPTION
+    * - Field Name
+      - The Name of The Field being Updated
+    * - Old Value
+      - The Old Value of The Updated Field
+    * - New Value
+      - The New Value of The Updated Field
+    * - Updated By
+      - The Person who Made The Update
+    * - Updated At
+      - The Time of Making The Update
 
 
 .. |customerlist| image:: customerlist.JPG
@@ -304,4 +406,7 @@ Edit - Current Cart Product
 .. |customerlist_edit2| image:: customerlist_edit2.JPG
 .. |customerlist_edit3| image:: customerlist_edit3.JPG
 .. |customerlist_edit4| image:: customerlist_edit4.JPG
+.. |customerlist_edit5| image:: customerlist_edit5.JPG
+.. |customerlist_edit6| image:: customerlist_edit6.JPG
+.. |customerlist_edit8| image:: customerlist_edit8.JPG
 
