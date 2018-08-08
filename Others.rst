@@ -18,3 +18,6 @@ Users can export the list of users unsubscribed from Mailchimp.
       - FIELD DESCRIPTION
     * - Export Mailchimp Unsubscribed List
       - Downloading the list of users unsubscribed from Mailchimp
+
+
+.. |Others| image:: Others.jpg
