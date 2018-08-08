@@ -94,7 +94,36 @@ The Buttons on top of The Table allow users to find The Target Customers they ar
       - User can filter Customers with different Status or Customer Tier
     * - SN, email, name, contact input box
       - User can input corresponding Customer details to locate target Customers
+      
+Advanced Search
+==================
+Users can input different criterion into the pop-up Advanced Search window to locate target Purchase Order Items.
+
+|customerlist_search|
+
+.. list-table:: Customer List Module Advanced Search
+    :widths: 10 50
+    :header-rows: 1
+    :stub-columns: 1
+
+    * - FIELD NAME
+      - FIELD DESCRIPTIONS
+    * - Register Date
+      - The Register Date Range of Customer in Ztore
+    * - Registered BY
+      - The Customer register by "Facebook" or "Email"?
+    * - Linked with Facebook
+      - "Yes" or "No" Customer Account linked with their Facebook Account
+    * - Z-Dollar
+      - The Range of Z-Dollar Customer have
+    * - Zmile
+      - The Range of Zmile Customer have
+    * - Membership Tier
+      - The Membership Level of Customer
+    * - Membership Report Date
+      - The Date Range of Membership Report
 
 
 .. |customerlist| image:: customerlist.JPG
 .. |customerlist_buttons| image:: customerlist_buttons.JPG
+.. |customerlist_search| image:: customerlist_search.JPG
