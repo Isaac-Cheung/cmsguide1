@@ -27,3 +27,4 @@
    :maxdepth: 2
 
    Customer List
+   Rank List
