@@ -503,6 +503,108 @@ Users can export the basic details of targeted customer into Excel format by cli
       - The Latest Address Used by The Customer
     * - Address Distinction
       - Commercial/Non-commercial
+      
+Export Membership Report
+------------------
+Users can export the ordering details of targeted customer into Excel format by clicking “Export Membership Report” in the “Tools” button dropdown list.
+
+.. list-table:: Membership Report
+    :widths: 10 50 50
+    :header-rows: 1
+    :stub-columns: 1
+
+    * - FIELD NAME
+      - FIELD DESCRIPTION
+      - CALCULATION
+    * - SN
+      - The Customer ID
+      -
+    * - Email
+      - The Customer Email
+      -
+    * - Title
+      - The Customer Title
+      -
+    * - First Name
+      - The Customer First Name
+      - 
+    * - Last Name
+      - The Customer Last Name
+      - 
+    * - Birthday
+      - The Customer Birthday
+      -
+    * - First purchase date
+      - The Date of First Purchase Made by The Customer
+      -
+    * - Last purchase date
+      - The Date of Latest Purchase Made by The Customer
+      -
+    * - Last order no.
+      - The Order ID of The Latest Purchase
+      -
+    * - First membership date
+      - The Date of The Customer registering the First membership
+      -
+    * - Z-Dollar
+      - The Amount of Z-Dollar of The Customer
+      -
+    * - Zmile
+      - The Zmile of The Customer
+      -
+    * - Current membership tier
+      - The Customer Rank
+      -
+    * - Highest membership tier reached
+      - The Highest Customer Level the Customer Attained
+      -
+    * - Last membership tier
+      - The Latest Customer Level The Customer is having
+      -
+    * - Current membership tier start date
+      - The Starting date of The current membership of The Customer
+      -
+    * - Current membership tier expiry date
+      - The Final date of The current membership of The Customer
+      -
+    * - Day since last purchase
+      - The Date of Latest Purchase Made by The Customer
+      -
+    * - Activeness
+      - Membership activeness status
+      - (Today - last purchase date), 
+        if >180: lost; 
+        if 71-180: Inactive; 
+        if ≤70: Active 
+    * - Total Zmiles earned
+      - The Total Amount of Zmiles The Customer Earned
+      -
+    * - Total Redemption
+      - The Total Redemption Amount The Customer Received
+      -
+    * - No. of order in the period
+      - How many valid orders created within the period
+      - Period ref by Membership Report Date in Advanced Search
+    * - Average basket in the period
+      - The Average Basket Level of The Customer in The Current Membership Period
+      -
+    * - Total GMV in the period
+      - The Gross Merchandising Value of The Customer Purchased in The Current Membership Period
+      -
+    * - Zmiles earned in the period
+      - The Zmile of The Customer in The Current Membership Period
+      -
+    * - Zmile Module Amendment in the period
+      - How many zmile adjusted in the period
+      - Only count the adjusted in CMS Zmile Module
+    * - Expired Zmiles in the period
+      - How many zmile expired in the period
+      - Only count the reason as expired
+    * - Level-up Deducted Zmiles in the period
+      - How many zmile used in Levelup (grade) / Renew the grade / Down grade
+      - Levelup / Renew : reduce the next / current grade condition zmile
+        Downgrade : reduce all Zmile
+
 
 
 .. |customerlist| image:: customerlist.JPG
