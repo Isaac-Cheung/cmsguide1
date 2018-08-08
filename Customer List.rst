@@ -176,9 +176,49 @@ Users can also click the “Edit” Button of the corresponding Customer Item un
       - The Upper Limit of Cash on Delivery of The Customer
     * - Remark
       - The additional information of The Customer
+      
+Edit - Current User Address
+------------------
 
+|customerlist_edit2|
+
+.. list-table:: Edit Current User Address
+    :widths: 10 50
+    :header-rows: 1
+    :stub-columns: 1
+
+    * - FIELD NAME
+      - FIELD DESCRIPTION
+    * - Default
+      - Default shipping address selected by system, when customer in checkout flow - step1
+    * - Consignee
+      - The Consignee Name
+    * - Title
+      - The Consignee Title
+    * - Contact No.
+      - The Contact Number of The Consignee
+    * - Mobile
+      - The Mobile Number of The Consignee
+    * - Language
+      - The Frequently Used Language of The Consignee
+    * - Country
+      - The Country of Consignee
+    * - Region
+      - The Region of Consignee
+    * - District
+      - The District of Consignee
+    * - Area
+      - The Area of Consignee
+    * - No Lift
+      - "Yes" or "No" of No Lift in The Consignee Building
+    * - Distinction
+      - Non-Industrial / Commercial Locations
+    * - Actions
+      - None
 
 .. |customerlist| image:: customerlist.JPG
 .. |customerlist_buttons| image:: customerlist_buttons.JPG
 .. |customerlist_search| image:: customerlist_search.JPG
 .. |customerlist_edit| image:: customerlist_edit.JPG
+.. |customerlist_edit2| image:: customerlist_edit2.JPG
+
