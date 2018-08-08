@@ -122,8 +122,63 @@ Users can input different criterion into the pop-up Advanced Search window to lo
       - The Membership Level of Customer
     * - Membership Report Date
       - The Date Range of Membership Report
+      
+Edit
+==================
+Users can also click the “Edit” Button of the corresponding Customer Item under the Action column to edit the details of that Customer.
+
+|customerlist_edit|
+
+.. list-table:: Edit
+    :widths: 10 50
+    :header-rows: 1
+    :stub-columns: 1
+
+    * - FIELD NAME
+      - FIELD DESCRIPTION
+    * - SN
+      - The Customer Serial Number (ID)
+    * - Email
+      - The Customer Email
+    * - First Name
+      - The First Name of Customer
+    * - Last Name
+      - The Last Name of Customer
+    * - Title
+      - The Title (E.g. Mr, Mrs) of Customer
+    * - Neighbor
+      - "Yes" or "No" for Neighbor
+    * - Subscribe
+      - "Yes: or "No" for Subscription
+    * - First Referrer
+      - The First Referrer of The Customer
+    * - Mobile
+      - The Mobile contact of The Customer
+    * - Birthday
+      - The Birthday of The Customer
+    * - Contact No
+      - The Contact Number of The Customer
+    * - Z-Dollar
+      - The Z-Dollar Amount of The Customer
+    * - Rank Name
+      - The Customer Level of The Customer
+    * - Zmile
+      - The Zmile Amount of The Customer
+    * - Company
+      - The Company of The Customer working for
+    * - Register Date
+      - The Date of Registration of The Customer
+    * - Last Login
+      - The Latest Login Date of The Customer
+    * - Facebook ID
+      - The Facebook ID of The Customer
+    * - COD limit
+      - The Upper Limit of Cash on Delivery of The Customer
+    * - Remark
+      - The additional information of The Customer
 
 
 .. |customerlist| image:: customerlist.JPG
 .. |customerlist_buttons| image:: customerlist_buttons.JPG
 .. |customerlist_search| image:: customerlist_search.JPG
+.. |customerlist_edit| image:: customerlist_edit.JPG
