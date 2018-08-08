@@ -72,6 +72,28 @@ The Customer List Module displays the details of our registered customers. Users
       - "Yes" or "No" if The Customer is Deleted
     * - Action
       - Edit - Edit Customer Item Information
+      
+Buttons
+==================
+The Buttons on top of The Table allow users to find The Target Customers they are looking for and export them out into a report.
+
+|customerlist_buttons|
+
+.. list-table:: Customer List Module Buttons
+    :widths: 10 50
+    :header-rows: 1
+    :stub-columns: 1
+
+    * - BUTTONS
+      - DESCRIPTIONS
+    * - Advanced Search
+      - User can use multiple search criterion to locate the target Customers
+    * - Tools
+      - User can export different kinds of Customer Reports.
+    * - Other Search
+      - User can filter Customers with different Status or Customer Tier
+    * - SN, email, name, contact input box
+      - User can input corresponding Customer details to locate target Customers
 
 
 .. |customerlist| image:: customerlist.JPG
