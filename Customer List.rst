@@ -215,10 +215,65 @@ Edit - Current User Address
       - Non-Industrial / Commercial Locations
     * - Actions
       - None
+      
+Edit - Order History
+------------------
+
+|customerlist_edit3|
+
+.. list-table:: Edit Order History
+    :widths: 10 50
+    :header-rows: 1
+    :stub-columns: 1
+
+    * - FIELD NAME
+      - FIELD DESCRIPTION
+    * - Order No
+      - The Order No
+    * - Order Rating
+      - The Rating Given by The Customer
+    * - Order Date
+      - The Date of Making The Order
+    * - Delivery Date
+      - The Date of Order Delivery
+    * - Delivery Slot
+      - The Time of Order Delivery
+    * - Packaging
+      - The Special Packaging of The Order Product
+    * - Payment Type
+      - The Payment Type for The Order
+    * - Area Code
+      - The Code of Order Area
+    * - Region 
+      - The Region of The Order
+    * - District
+      - The District of The Order
+    * - Area
+      - The Area of The Order
+    * - Address
+      - The Order Address
+    * - Remarks
+      - The Additional Information of The Order
+    * - Sales Amount
+      - The Sales Amount of The Order
+    * - Delivery Charge
+      - The Delivery Charge on The Order
+    * - Promotion
+      - The Promotion Amount of The Order
+    * - Z-Dollar Used
+      - The Amount of Z-Dollar used in The Order
+    * - Sales Amount
+      - The Total Sales Amount of The Order
+    * - Bill Amount 
+      - The Billing Amount of The Order
+    * - Status
+      - The Order Status
+
 
 .. |customerlist| image:: customerlist.JPG
 .. |customerlist_buttons| image:: customerlist_buttons.JPG
 .. |customerlist_search| image:: customerlist_search.JPG
 .. |customerlist_edit| image:: customerlist_edit.JPG
 .. |customerlist_edit2| image:: customerlist_edit2.JPG
+.. |customerlist_edit3| image:: customerlist_edit3.JPG
 
