@@ -573,9 +573,9 @@ Users can export the ordering details of targeted customer into Excel format by 
     * - Activeness
       - Membership activeness status
       - (Today - last purchase date), 
-        if >180: lost; 
-        if 71-180: Inactive; 
-        if ≤70: Active 
+if >180: lost; 
+if 71-180: Inactive; 
+if ≤70: Active 
     * - Total Zmiles earned
       - The Total Amount of Zmiles The Customer Earned
       -
@@ -603,7 +603,7 @@ Users can export the ordering details of targeted customer into Excel format by 
     * - Level-up Deducted Zmiles in the period
       - How many zmile used in Levelup (grade) / Renew the grade / Down grade
       - Levelup / Renew : reduce the next / current grade condition zmile
-        Downgrade : reduce all Zmile
+Downgrade : reduce all Zmile
 
 
 
