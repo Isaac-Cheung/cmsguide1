@@ -268,6 +268,33 @@ Edit - Order History
       - The Billing Amount of The Order
     * - Status
       - The Order Status
+      
+Edit - Current Cart Product
+------------------
+
+|customerlist_edit4|
+
+.. list-table:: Edit Current Cart Product
+    :widths: 10 50
+    :header-rows: 1
+    :stub-columns: 1
+
+    * - FIELD NAME
+      - FIELD DESCRIPTION
+    * - SN
+      - The Product ID
+    * - Product Name (Eng)
+      - The English Name of Product currently in the Shopping Cart
+    * - Product Name (Chi)
+      - The Chinese of Product currently in the Shopping Cart
+    * - Price
+      - The Price of Product
+    * - Qty
+      - The Product Quantity
+    * - Stock Type
+      - The Stock Type of The Product
+    * - Sub-Total
+      - The Total Value of The Single Product in The Shopping Cart
 
 
 .. |customerlist| image:: customerlist.JPG
@@ -276,4 +303,5 @@ Edit - Order History
 .. |customerlist_edit| image:: customerlist_edit.JPG
 .. |customerlist_edit2| image:: customerlist_edit2.JPG
 .. |customerlist_edit3| image:: customerlist_edit3.JPG
+.. |customerlist_edit4| image:: customerlist_edit4.JPG
 
