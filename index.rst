@@ -16,4 +16,8 @@
    Brand
    Product
 
+.. toctree::
+   :caption: Others
+   :maxdepth: 2
 
+   Others
