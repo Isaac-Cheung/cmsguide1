@@ -397,6 +397,36 @@ Edit - Admin Update Log
       - The Person who Made The Update
     * - Updated At
       - The Time of Making The Update
+      
+Other Search
+==================
+Users can filter different groups of customers easily by selecting the criteria in the dropdown list from the “Other Search” button.
+
+|customerlist_othersearch|
+
+.. list-table:: Edit - Admin Update Log
+    :widths: 10 50
+    :header-rows: 1
+    :stub-columns: 1
+
+    * - FIELD NAME
+      - FIELD DESCRIPTION
+    * - Get All
+      - Show All Customer
+    * - Get Neighbour
+      - Show Customer with The Neighbor Field is "Yes"
+    * - Get Non-Neighbour
+      - Show Customer with The Neighbor Field is "No"
+    * - Get Non-Delete User
+      - Show Customer with The Delete Field is "No"
+    * - Get Membership(Customer)
+      - Show Customer with The Rank Name Field is "Standard"
+    * - Get Membership(Silver)
+      - Show Customer with The Rank Name Field is "Silver"
+    * - Get Membership(Gold)
+      - Show Customer with The Rank Name Field is "Gold"
+    * - Get Membership(Platinum)
+      - Show Customer with The Rank Name Field is "Platinum"
 
 
 .. |customerlist| image:: customerlist.JPG
@@ -409,4 +439,5 @@ Edit - Admin Update Log
 .. |customerlist_edit5| image:: customerlist_edit5.JPG
 .. |customerlist_edit6| image:: customerlist_edit6.JPG
 .. |customerlist_edit8| image:: customerlist_edit8.JPG
+.. |customerlist_othersearch| image:: customerlist_othersearch.JPG
 
