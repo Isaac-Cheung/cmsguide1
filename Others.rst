@@ -20,4 +20,4 @@ Users can export the list of users unsubscribed from Mailchimp.
       - Downloading the list of users unsubscribed from Mailchimp
 
 
-.. |Others| image:: Others.jpg
+.. |Others| image:: Others.JPG
