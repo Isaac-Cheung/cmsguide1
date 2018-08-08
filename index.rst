@@ -21,3 +21,9 @@
    :maxdepth: 2
 
    Others
+
+.. toctree::
+   :caption: Customer
+   :maxdepth: 2
+
+   Customer List
