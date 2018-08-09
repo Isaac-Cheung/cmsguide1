@@ -66,3 +66,4 @@
    Update Product Location
    Re-Generate Excel
    Product Barcode
+   Print Product Label
