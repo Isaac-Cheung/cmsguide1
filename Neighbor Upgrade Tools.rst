@@ -30,6 +30,8 @@ After Searching the Customer with Email or ID, Users can click on the “上帝�
       - FIELD DESCRIPTION
     * - Email
       - Customer Email
+    * - Customer ID
+      - Customer ID 
     * - Name
       - Customer Name
 
