@@ -30,3 +30,4 @@
    Rank List
    Neighbor Upgrade Tools
    Z-Dollar
+   Zmile
