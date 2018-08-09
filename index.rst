@@ -65,3 +65,4 @@
    Product Location
    Update Product Location
    Re-Generate Excel
+   Product Barcode
