@@ -64,3 +64,4 @@
    Search Location
    Product Location
    Update Product Location
+   Re-Generate Excel
