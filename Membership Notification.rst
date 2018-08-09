@@ -30,4 +30,4 @@ Users can create and send Membership Notifications here by entering the Notifica
       - The Date Customer Notification Created
       
       
-      .. |memnot| image:: memnot.JPG
+.. |memnot| image:: memnot.JPG
