@@ -32,4 +32,5 @@
    Z-Dollar
    Zmile
    Zmile Criteria List
-	Membership Notification
+   Membership Notification
+   Friend Code Generator
