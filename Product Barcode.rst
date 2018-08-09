@@ -5,7 +5,7 @@ Users can Add or Edit the Barcode of different Products in this Module.
 
 |probar|
 
-.. list-table:: Update Product Location Module
+.. list-table:: Product Barcode Module
     :widths: 10 50
     :header-rows: 1
     :stub-columns: 1
