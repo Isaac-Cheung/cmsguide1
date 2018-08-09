@@ -62,3 +62,4 @@
    Location
    Update Location Master
    Search Location
+   Product Location
