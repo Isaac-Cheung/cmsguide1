@@ -31,3 +31,4 @@
    Neighbor Upgrade Tools
    Z-Dollar
    Zmile
+   Zmile Criteria List
