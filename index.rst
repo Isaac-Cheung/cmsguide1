@@ -46,3 +46,4 @@
    :maxdepth: 2
 
    API Testing Platform
+   Quick Action
