@@ -61,3 +61,4 @@
    Order (Operation)
    Location
    Update Location Master
+   Search Location
