@@ -53,3 +53,9 @@
    :maxdepth: 2
 
    Inventory
+
+.. toctree::
+   :caption: WMS
+   :maxdepth: 2
+
+   Order (Operation)
