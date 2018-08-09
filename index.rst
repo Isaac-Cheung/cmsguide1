@@ -47,3 +47,9 @@
 
    API Testing Platform
    Quick Action
+
+.. toctree::
+   :caption: Inventory
+   :maxdepth: 2
+
+   Inventory
