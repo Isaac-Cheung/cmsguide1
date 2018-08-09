@@ -40,3 +40,9 @@
    :maxdepth: 2
 
    Ticket
+
+.. toctree::
+   :caption: Development
+   :maxdepth: 2
+
+   API Testing Platform
