@@ -32,3 +32,4 @@
    Z-Dollar
    Zmile
    Zmile Criteria List
+	Membership Notification
