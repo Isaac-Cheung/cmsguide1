@@ -67,3 +67,9 @@
    Re-Generate Excel
    Product Barcode
    Print Product Label
+
+.. toctree::
+   :caption: MMS
+   :maxdepth: 2
+
+   Send MMS
