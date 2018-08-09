@@ -29,3 +29,4 @@
    Customer List
    Rank List
    Neighbor Upgrade Tools
+   Z-Dollar
