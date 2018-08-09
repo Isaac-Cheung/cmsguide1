@@ -34,3 +34,9 @@
    Zmile Criteria List
    Membership Notification
    Friend Code Generator
+  
+.. toctree::
+   :caption: Ticket
+   :maxdepth: 2
+
+   Ticket
