@@ -73,3 +73,4 @@
    :maxdepth: 2
 
    Send MMS
+   MMS Delivery Log
