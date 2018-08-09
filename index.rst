@@ -60,3 +60,4 @@
 
    Order (Operation)
    Location
+   Update Location Master
