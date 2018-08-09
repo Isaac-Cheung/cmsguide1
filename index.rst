@@ -59,3 +59,4 @@
    :maxdepth: 2
 
    Order (Operation)
+   Location
