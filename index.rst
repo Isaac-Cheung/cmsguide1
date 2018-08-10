@@ -74,3 +74,9 @@
 
    Send MMS
    MMS Delivery Log
+
+.. toctree::
+   :caption: Order
+   :maxdepth: 2
+
+   Order List
