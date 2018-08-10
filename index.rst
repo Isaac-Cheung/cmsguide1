@@ -80,3 +80,9 @@
    :maxdepth: 2
 
    Order List
+
+.. toctree::
+   :caption: Purchase Order
+   :maxdepth: 2
+
+   Purchase Order
