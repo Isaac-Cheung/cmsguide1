@@ -86,3 +86,9 @@
    :maxdepth: 2
 
    Purchase Order
+   
+.. toctree::
+   :caption: System
+   :maxdepth: 2
+
+   Admin
