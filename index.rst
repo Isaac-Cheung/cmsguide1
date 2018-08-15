@@ -94,3 +94,4 @@
    Admin
    Admin Type
    Email Error Log
+   View Admin Log
