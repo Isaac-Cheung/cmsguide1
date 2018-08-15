@@ -97,3 +97,4 @@
    View Admin Log
    Setting
    Project
+   System Notification
