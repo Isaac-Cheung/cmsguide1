@@ -104,3 +104,4 @@
    :maxdepth: 2
 
    Menu
+   Media Coverage
