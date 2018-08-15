@@ -615,7 +615,7 @@ Users can see the redemption progress of selected customers in Excel format.
     :stub-columns: 1
 
     * - FIELD NAME
-      - FIELD DESCRIPTION
+      - FIELD DESCRIPTIONS
     * - SN
       - The Customer ID
     * - Email
