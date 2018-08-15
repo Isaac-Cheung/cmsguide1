@@ -105,3 +105,4 @@
 
    Menu
    Media Coverage
+   Website Sitemap File
