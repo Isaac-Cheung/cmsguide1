@@ -88,8 +88,43 @@ Users can Create new Admin Account by clicking on the “Create Admin” button 
       - The Onboard Date of Admin
     * - Access Right Selection
       - Select the access right options for the Admin Account
+      
+Admin Report
+==================
+Users can export Admin Account Details in Excel Format by clicking on the “Export Excel” button on top of the Admin Table.
+
+|admin_report|
+
+.. list-table:: Admin Report
+    :widths: 10 50
+    :header-rows: 1
+    :stub-columns: 1
+
+    * - FIELD NAME
+      - FIELD DESCRIPTION
+    * - ID
+      - The Admin ID
+    * - ADMIN TYPE
+      - The Admin Type
+    * - USERNAME
+      - The Admin Username
+    * - EMAIL
+      - The Admin Email 
+    * - NAME
+      - The Name of Admin
+    * - POSITION
+      - The Position of Admin
+    * - TEAM
+      - The Team of Admin
+    * - LAST LOGIN
+      - The Date of Last Login 
+    * - CREATE DAY
+      - The Admin Account Creating Day
+    * - ACTIVE
+      - Active/ Inactive Admin Account
 
 
 .. |admin| image:: admin.JPG
 .. |admin_buttons| image:: admin_buttons.JPG
 .. |admin_create| image:: admin_create.JPG
+.. |admin_report| image:: admin_report.JPG
