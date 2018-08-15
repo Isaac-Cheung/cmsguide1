@@ -92,3 +92,4 @@
    :maxdepth: 2
 
    Admin
+   Admin Type
