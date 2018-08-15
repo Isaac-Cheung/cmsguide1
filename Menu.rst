@@ -96,9 +96,34 @@ Users can click on the “Create Menu” button on top of the Menu Table and inp
       - Upload The Menu Mobile Icon here
     * - Mobile Red Icon
       - Upload The Menu Mobile Red Icon here
+      
+Create - Add Sub Menu
+------------------
+Users can add Sub Menu into the New Menu item by clicking on the “Add Sub Menu” button on the “Create Menu” popup window. You can then input the Sub Menu Details.
+
+|menu_create1|
+
+.. list-table:: Create - Add Sub Menu
+    :widths: 10 50
+    :header-rows: 1
+    :stub-columns: 1
+
+    * - FIELD NAME
+      - FIELD DESCRIPTIONS
+    * - Menu Type
+      - The Type of Menu
+    * - Menu Related ID
+      - The Menu Related ID
+    * - Sort Order
+      - The Relative Importance of Sub Menu
+    * - Status
+      - Active/Inactive Sub Menu
+    * - Action
+      - Cancel Sub Menu
 
 
 
 .. |menu| image:: menu.JPG
 .. |menu_buttons| image:: menu_buttons.JPG
 .. |menu_create| image:: menu_create.JPG
+.. |menu_create1| image:: menu_create1.JPG
