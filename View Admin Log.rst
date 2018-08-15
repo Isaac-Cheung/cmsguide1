@@ -41,7 +41,7 @@ Users can Search Admin Log by clicking on the “Search Tag” on top of the Adm
     :stub-columns: 1
 
     * - FIELD NAME
-      - FIELD DESCRIPTION
+      - FIELD DESCRIPTIONS
     * - Admin Name
       - The Name of Admin
     * - Module
