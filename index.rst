@@ -98,3 +98,9 @@
    Setting
    Project
    System Notification
+
+.. toctree::
+   :caption: Website Content
+   :maxdepth: 2
+
+   Menu
