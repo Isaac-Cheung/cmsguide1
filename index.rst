@@ -93,3 +93,4 @@
 
    Admin
    Admin Type
+   Email Error Log
