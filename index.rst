@@ -96,3 +96,4 @@
    Email Error Log
    View Admin Log
    Setting
+   Project
