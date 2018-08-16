@@ -106,3 +106,4 @@
    Menu
    Media Coverage
    Website Sitemap File
+   Content Farm
