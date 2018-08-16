@@ -21,7 +21,7 @@ User can Export the Details of Referral User by clicking on the “Referral User
 
 |ref_report|
 
-.. list-table:: Referral Program
+.. list-table:: Referral User Report
     :widths: 10 50
     :header-rows: 1
     :stub-columns: 1
@@ -88,7 +88,60 @@ User can Export the Details of Referral User by clicking on the “Referral User
       - The percentage to share on PC platform
     * - Share rate on Tablet
       - The percentage to share on Tablet platform
+      
+Referral User Order Report
+==================
+User can Export the Order Details made by Referred User in this Module.
+
+|ref_report2|
+
+.. list-table:: Referral User Order Report
+    :widths: 10 50
+    :header-rows: 1
+    :stub-columns: 1
+
+    * - FIELD NAME
+      - FIELD DESCRIPTIONS
+    * - Referral User SN
+      - The Referral User Customer ID
+    * - Referral User Email
+      - The Referral User Customer Email
+    * - Referred User SN
+      - The Referral User Customer ID
+    * - Referred User Email
+      - The Referral User Customer Email
+    * - Referred Medium
+      - The Medium of Referral
+    * - Referred Link
+      - The Link of Referral
+    * - Order SN after referral
+      - The Order ID of The Referral
+    * - Is referred order
+      - Is The Order made by The Referred User
+    * - Order Date
+      - The Date of Referred Order
+    * - Order Amount
+      - The Order Amount of Referred Order
+    * - Delivery Charge
+      - The Delivery Charge of Referred Order
+    * - Promotion
+      - The Promotion Amount of Referred Order
+    * - Z-Dollar Used
+      - The Amount Z-Dollar Used of Referred Order
+    * - Sales Amount
+      - The Sales Amount of Referred Order
+    * - Bill Amount
+      - The Billing Amount of Referred Order
+    * - Payment Type
+      - The Payment Type of Referred Order
+    * - Region
+      - The Region of Referred Order
+    * - District
+      - The District of Referred Order
+    * - Area
+      - The Area of Referred Order
 
 
 .. |ref| image:: ref.JPG
 .. |ref_report| image:: ref_report.JPG
+.. |ref_report2| image:: ref_report2.JPG
