@@ -107,3 +107,4 @@
    Media Coverage
    Website Sitemap File
    Content Farm
+   Shop
