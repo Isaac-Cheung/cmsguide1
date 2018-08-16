@@ -109,3 +109,4 @@
    Content Farm
    Shop
    Feature Category
+   Website Notification
