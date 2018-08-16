@@ -15,6 +15,15 @@
    Vendor
    Brand
    Product
+   ProductNotify
+   ProductBundle
+   FeaturedProduct
+   ProductInventory
+   ProductHoldInventory
+   ProductBatchCreation
+   ProductBatchUpdate
+   ProductRating
+   ProductCostUpdate
 
 .. toctree::
    :caption: Others
@@ -110,3 +119,32 @@
    Shop
    Feature Category
    Website Notification
+   
+.. toctree::
+   :caption: Promotion
+   :maxdepth: 2
+
+   PriceUpdate
+   ProductPromotion
+   PromotionEvent
+   ShopRedemption
+   PriceUpload
+   
+   
+.. toctree::
+   :caption: Report
+   :maxdepth: 2
+
+   DailyReport
+   AffiliateReport
+   OrderRatingReport
+   UserActivity
+   CohortReport
+   PromotionCodeReport
+   PromotionEventReport
+   SalesReport
+   InventoryReport
+   CustomerSpecificReport
+   FreebieRedemption
+   BasketLevelAnalysis
+   GroundPaymentReport
