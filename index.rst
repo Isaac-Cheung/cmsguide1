@@ -108,3 +108,4 @@
    Website Sitemap File
    Content Farm
    Shop
+   Feature Category
