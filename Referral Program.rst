@@ -140,8 +140,53 @@ User can Export the Order Details made by Referred User in this Module.
       - The District of Referred Order
     * - Area
       - The Area of Referred Order
+      
+Engagement Medium Report
+==================
+User can Export the Details of different Medium Engaged by the Users.
+
+|ref_report3|
+
+.. list-table:: Engagement Medium Report
+    :widths: 10 50
+    :header-rows: 1
+    :stub-columns: 1
+
+    * - FIELD NAME
+      - FIELD DESCRIPTIONS
+    * - Engagement Medium
+      - The Type of Engagement Medium
+    * - No. of link shared
+      - The Number of Link Shared in The Type of Medium
+    * - Share rate
+      - The Share Rate of The Type of Medium
+    * - No. of link click
+      - The Number of Link Clicked in The Medium
+    * - Click rate
+      - The Click Rate in The Medium
+    * - No. of user register
+      - The Number of Registered in The Medium
+    * - Referral conversion rate
+      - The Proportion of Orders made to the times of Referral Link clicked
+    * - Total GMV
+      - The Gross Merchandise Volume in The Medium
+    * - Total billing amount
+      - The Total Billing Amount in The Medium
+    * - Total discount
+      - The Total Discount Amount in The Medium
+    * - Total rebate
+      - The Rebate Amount in The Medium
+    * - No. of purchase
+      - The Number of Purchase Made in The Medium
+    * - Avg idle period of referred users
+      - The Average Time Period in between every Orders by all Referred Users
+    * - Share rate on PC
+      - The Share Rate on PC Through The Medium
+    * - Share rate on Mobile
+      - The Share Rate on Mobile Through The Medium
 
 
 .. |ref| image:: ref.JPG
 .. |ref_report| image:: ref_report.JPG
 .. |ref_report2| image:: ref_report2.JPG
+.. |ref_report3| image:: ref_report3.JPG
