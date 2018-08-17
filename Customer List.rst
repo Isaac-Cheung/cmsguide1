@@ -654,4 +654,3 @@ Users can see the redemption progress of selected customers in Excel format.
 .. |customerlist_edit8| image:: customerlist_edit8.JPG
 .. |customerlist_othersearch| image:: customerlist_othersearch.JPG
 .. |customerlist_report| image:: customerlist_report.JPG
-
