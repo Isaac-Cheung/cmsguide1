@@ -95,6 +95,7 @@
    :maxdepth: 2
 
    Purchase Order
+   Replenishment
    
 .. toctree::
    :caption: System
