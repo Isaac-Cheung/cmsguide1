@@ -71,10 +71,10 @@ The Order Category lists are the Orders made by customer in the list. Users can 
     * - Shipping Status Last Update
       - The Latest Update Date of Shipping Status
     * - Action
-      - Edit - Edit Order Item Information;
-        Download - Download Order Item;
-        Submit for Settlement - Submit The Order Item for Settling;
-        Void Order - Delete The Order Item
+      - - Edit - Edit Order Item Information;
+        - Download - Download Order Item;
+        - Submit for Settlement - Submit The Order Item for Settling;
+        - Void Order - Delete The Order Item
         
 Buttons
 ==================
@@ -120,34 +120,34 @@ Users can input different criterion into the pop-up Advanced Search window to lo
       -
     * - Status
       - The Status of Customer Order
-      - Paid or Settled or Refunded;
-        Settled – The Order is Paid and Completed;
-        Authorized – The Order is Authorized by The Customer;
-        Cancelled – The Order is cancelled by The Customer;
-        Force Voided - ;
-        Fully Refunded – The Customer received complete refund for The Order;
-        Not Paid - ;
-        Refunded - ;
-        Void Payment Only - ;
-        Voided - ;
-        Waybill Canceled - ;
-        To be Refund - ;
+      - - Paid or Settled or Refunded;
+        - Settled – The Order is Paid and Completed;
+        - Authorized – The Order is Authorized by The Customer;
+        - Cancelled – The Order is cancelled by The Customer;
+        - Force Voided - ;
+        - Fully Refunded – The Customer received complete refund for The Order;
+        - Not Paid - ;
+        - Refunded - ;
+        - Void Payment Only - ;
+        - Voided - ;
+        - Waybill Canceled - ;
+        - To be Refund - ;
     * - Shipping method
       - The Shipping Method of Customer Order
-      - Delivery – The Order will be delivered directly to The Customer’s registered address;
-        Locker – The Order will be delivered to Customer’s Locker;
-        EF Locker - ;
-        LockerLife & Hop -
+      - - Delivery – The Order will be delivered directly to The Customer’s registered address;
+        - Locker – The Order will be delivered to Customer’s Locker;
+        - EF Locker - ;
+        - LockerLife & Hop -
     * - Locker Shipping Status
       - The Locker Status for the Order
-      - Arrived – The Order Product has arrived The Locker;
-        Cancelled - ;
-        Customer Received – Customer has picked up The Order from The Locker;
-        Delivery Failed – The Order is not able to reach The Locker;
-        On the way – The Order is in the process of arriving The Locker;
-        Order Confirmed – The Order is confirmed for Locker Delivery;
-        Order Unconfirmed – The Order has not confirmed for Order Delivery;
-        Ready to Deliver – The Order is now ready to start the delivery process
+      - - Arrived – The Order Product has arrived The Locker;
+        - Cancelled - ;
+        - Customer Received – Customer has picked up The Order from The Locker;
+        - Delivery Failed – The Order is not able to reach The Locker;
+        - On the way – The Order is in the process of arriving The Locker;
+        - Order Confirmed – The Order is confirmed for Locker Delivery;
+        - Order Unconfirmed – The Order has not confirmed for Order Delivery;
+        - Ready to Deliver – The Order is now ready to start the delivery process
     * - Payment Type
       - The Type of Payment for The Order
       -
