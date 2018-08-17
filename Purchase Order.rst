@@ -150,6 +150,82 @@ Users can also click the “Edit” Button of the corresponding Purchase Order I
 
 |purorder_edit|
 
+.. list-table:: Create and Edit Purchase Order Items
+    :widths: 10 50 50
+    :header-rows: 1
+    :stub-columns: 1
+
+    * - FIELD NAME
+      - FIELD DESCRIPTION
+      - CALCULATION/ DROPDOWN LIST
+    * - Order No.
+      - The Purchase Order ID
+      -
+    * - Cheque 抬頭
+      - The Heading of Cheque settling the Order
+      -
+    * - Payment Terms
+      - The Payment Terms of Purchase Order
+      -
+    * - PO for Shop
+      - Select if there is PO for Shop
+      -
+    * - Consignment Settlement
+      - Select if there is Consignment Settlement
+      -
+    * - Order Date
+      - The Date of Making The Purchase Order
+      -
+    * - Delivery Date
+      - The Date of Purchase Order Delivery
+      -
+    * - Vendor Name
+      - The Name of Vendor in The Purchase Order
+      -
+    * - Vendor Code
+      - The Code of Vendor in The Purchase Order
+      -
+    * - Contact Person
+      - The Contact Person of The Vendor
+      -
+    * - Telephone
+      - The Telephone Contact of The Vendor
+      -
+    * - Fax
+      - The Fax of The Vendor
+      -
+    * - Email
+      - The Email of The Vendor
+      -
+    * - Grouping Day
+      - The day vendor delivered goods to warehouse
+      -
+    * - Delivery Status
+      - The Delivery Status of The Vendor
+      -
+    * - Remarks
+      - The Remarks of Product in The Purchase Order
+      -
+    * - Operation Remark
+      - The Operation Remarks of Product in The Purchase Order
+      -
+    * - Accounts Ref
+      - The Account Reference of Product in The Purchase Order
+      -
+    * - Order Status
+      - The Order Status of The Purchase Order
+      - " **Processing -**
+           **Submitted to Account -**
+          **Confirmed -** 
+           **Paid & Unreceived -** 
+          **Received & Unpaid -** 
+           **Received & Unpaid & Variance -** 
+          **Received & Paid & Variance -** 
+           **Received & Paid & Merchandising Settled Variance -** 
+          **Closed -** 
+           **Void -** "
+
+
 
 .. |purorder| image:: purorder.JPG
 .. |purorder_buttons| image:: purorder_buttons.JPG
