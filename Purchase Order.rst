@@ -128,7 +128,7 @@ Users can input different criterion into the pop-up Advanced Search window to lo
           **Received & Paid & Variance -  The Purchase Order is Paid and Received but Variance Exist with Received Quantities and Ordered Quantities;**
            **Received & Paid & Merchandising Settled Variance - The Purchase Order is Paid and Received but Settled Variance Exist with Received Quantities and Ordered Quantities;**
           **Closed - The Purchase Order is completed;**
-           **Void - The Purchase Order is Voided"**
+           **Void - The Purchase Order is Voided** "
     * - GR Status
       - Good Receive Status, use for workflow control
       - **Processing - The Purchase Order is currently under process;**
@@ -141,9 +141,17 @@ Users can input different criterion into the pop-up Advanced Search window to lo
       - The Order No.(s) of Orders to be Searched, 1 row 1 order no.
       - 
 
+Create and Edit
+==================
+By clicking the “Create” Button on top of the Purchase Order table, users can create a new Purchase Order Item.
+Users can also click the “Edit” Button of the corresponding Purchase Order Item under the Action column to edit the details of that item.
 
+|purorder_create|
+
+|purorder_edit|
 
 
 .. |purorder| image:: purorder.JPG
 .. |purorder_buttons| image:: purorder_buttons.JPG
-.. |purorder_search| image:: purorder_search.JPG
+.. |purorder_create| image:: purorder_create.JPG
+.. |purorder_edit| image:: purorder_edit.JPG
