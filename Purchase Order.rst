@@ -129,7 +129,9 @@ Users can input different criterion into the pop-up Advanced Search window to lo
          **Received & Paid & Merchandising Settled Variance** - The Purchase Order is Paid and Received but Settled Variance Exist with Received Quantities and Ordered Quantities;
          **Closed** - The Purchase Order is completed;
          **Void** - The Purchase Order is Voided"
-
+     * - GR Status
+       - Good Receive Status, use for workflow control
+       - 
 
 
 
