@@ -5,15 +5,24 @@ Customer Specific Report Module displays the Customer Data under specific criter
 
 |Customerspecificreportmodule|
 
-.. list-table:: Banner Module
-    :widths: 10 50
+.. list-table:: Customer Specific Report Module
+    :widths: 10 50 50
     :header-rows: 1
     :stub-columns: 1
 
     * - FIELD NAME
-      - FIELD DESCRIPTION
+      - FIELD DESCRIPTIONS
+      - DROPDOWN :IST
     * - Report Type
       - Select The Type of Customer List to Generate
+      - - Customer List under specific category code - 
+        - Customer List under specific tag - 
+        - Customer List under specific brand - 
+        - Customer List under specific promotion - 
+        - Customer List under specific product - 
+        - Customer List under category code/tag/brand/product - 
+        - Customer List with Top 3 favorable tag - 
+
     * - Time Range
       - The Date Range of Information to be Extracted for The Customer Specific Report
     * - Category
