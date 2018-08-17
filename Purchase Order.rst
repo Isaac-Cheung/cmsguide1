@@ -131,7 +131,7 @@ Users can input different criterion into the pop-up Advanced Search window to lo
           **Void** - The Purchase Order is Voided"
     * - GR Status
       - Good Receive Status, use for workflow control
-      -   **Processing** - The Purchase Order is currently under process;
+      - **Processing** - The Purchase Order is currently under process;
           **Confirmed** - The Purchase Order is confirmed by The Vendor;
           **Arrived** - The Purchase Order has arrived the warehouse;
           **Received** - The Purchase Order is received by our staff;
