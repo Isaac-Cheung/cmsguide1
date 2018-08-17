@@ -214,8 +214,8 @@ Users can also click the “Edit” Button of the corresponding Purchase Order I
       -
     * - Order Status
       - The Order Status of The Purchase Order
-      - " **Processing -**
-        " **Submitted to Account -**
+      - **Processing -**
+         **Submitted to Account -**
           **Confirmed -** 
            **Paid & Unreceived -** 
           **Received & Unpaid -** 
@@ -223,7 +223,7 @@ Users can also click the “Edit” Button of the corresponding Purchase Order I
           **Received & Paid & Variance -** 
            **Received & Paid & Merchandising Settled Variance -** 
           **Closed -** 
-           **Void -** "
+           **Void -**
 
 
 
