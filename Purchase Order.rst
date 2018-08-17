@@ -137,6 +137,10 @@ Users can input different criterion into the pop-up Advanced Search window to lo
          **Received** - The Purchase Order is received by our staff;
          **Received with Qty Variance** - The Purchase Order is received and being confirmed on the quantity;
          **Partial Received** - The Purchase Order is only partially received by our staff
+     * - Order No(s)
+       - The Order No.(s) of Orders to be Searched,
+         1 row 1 order no.
+       -
 
 
 
