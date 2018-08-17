@@ -27,6 +27,7 @@ Users can extract the Order Details generated from different Affiliate Partners 
 
     * - Time Range
       - The Date Range of Information to be Extracted for The Affiliate Report
+      -
  
 Affiliate Report
 ==================
