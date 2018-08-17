@@ -119,23 +119,23 @@ Users can input different criterion into the pop-up Advanced Search window to lo
       -
     * - Order Status
       - The Order Status of The Purchase Order
-      - "**Processing** - The Purchase Order is cuurently under process;
-         **Submitted to Account** - The Purchase Order is submitted to Account Department;
-         **Confirmed** - The Purchase Order is confirmed by The Vendor;
-         **Paid & Unreceived** - The Purchase Order is Paid but not yet Received;
-         **Received & Unpaid** - The Purchase Order is Unpaid but already Received;
-         **Received & Unpaid & Variance** - The Purchase Order is Unpaid and Received but Variance Exist with Received Quantities and Ordered Quantities
-         **Received & Paid & Variance** -  The Purchase Order is Paid and Received but Variance Exist with Received Quantities and Ordered Quantities;
-         **Received & Paid & Merchandising Settled Variance** - The Purchase Order is Paid and Received but Settled Variance Exist with Received Quantities and Ordered Quantities;
-         **Closed** - The Purchase Order is completed;
-         **Void** - The Purchase Order is Voided"
+      - " **Processing** - The Purchase Order is cuurently under process;
+          **Submitted to Account** - The Purchase Order is submitted to Account Department;
+          **Confirmed** - The Purchase Order is confirmed by The Vendor;
+          **Paid & Unreceived** - The Purchase Order is Paid but not yet Received;
+          **Received & Unpaid** - The Purchase Order is Unpaid but already Received;
+          **Received & Unpaid & Variance** - The Purchase Order is Unpaid and Received but Variance Exist with Received Quantities and Ordered Quantities
+          **Received & Paid & Variance** -  The Purchase Order is Paid and Received but Variance Exist with Received Quantities and Ordered Quantities;
+          **Received & Paid & Merchandising Settled Variance** - The Purchase Order is Paid and Received but Settled Variance Exist with Received Quantities and Ordered Quantities;
+          **Closed** - The Purchase Order is completed;
+          **Void** - The Purchase Order is Voided"
     * - GR Status
       - Good Receive Status, use for workflow control
-      - **Processing** - The Purchase Order is currently under process;
-        **Confirmed** - The Purchase Order is confirmed by The Vendor;
-        **Arrived** - The Purchase Order has arrived the warehouse;
-        **Received** - The Purchase Order is received by our staff;
-        **Received with Qty Variance** - The Purchase Order is received and being confirmed on the quantity;
+      -  **Processing** - The Purchase Order is currently under process;
+         **Confirmed** - The Purchase Order is confirmed by The Vendor;
+         **Arrived** - The Purchase Order has arrived the warehouse;
+         **Received** - The Purchase Order is received by our staff;
+         **Received with Qty Variance** - The Purchase Order is received and being confirmed on the quantity;
          **Partial Received** - The Purchase Order is only partially received by our staff
     * - Order No(s)
       - The Order No.(s) of Orders to be Searched, 1 row 1 order no.
