@@ -25,8 +25,10 @@ Customer Specific Report Module displays the Customer Data under specific criter
 
     * - Time Range
       - The Date Range of Information to be Extracted for The Customer Specific Report
+      -
     * - Category
       - The Category of Products as Customer Specific Criterion
+      -
       
       
 Search & Download Customer Specific Report
