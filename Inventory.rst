@@ -15,9 +15,9 @@ User can upload different types of Inventory-related files in this Module.
       - DROPDOWN LIST
     * - Upload Type
       - Select The Type of Uploading File
-      - Inbound List – Product entering the warehouse of Ztore
-        Inventory – The Inventory Information of different products
-        Batch Control -  
+      - - Inbound List – Product entering the warehouse of Ztore
+        - Inventory – The Inventory Information of different products
+        - Batch Control -  
     * - 選擇檔案
       - Upload The Inventory File here
       - 
