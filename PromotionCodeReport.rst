@@ -35,16 +35,23 @@ Users can Search Promotion Code by clicking on the “Advanced Search” button 
 |Promotioncodereportadvancedsearch|
 
 .. list-table:: Promotion Code Report Advanced Search Page
-    :widths: 10 50
+    :widths: 10 50 50
     :header-rows: 1
     :stub-columns: 1
 
     * - FIELD NAME
-      - FIELD DESCRIPTION
+      - FIELD DESCRIPTIONS
+      - DROPDOWN LIST
     * - Active Date Range
       - The Active Date Range of the Promotion Code
+      -
     * - Promotion Type
       - The Type of Promotion
+      - - Reduce Price - 
+        - Discount Off - 
+        - Z-dollar - 
+        - Z-dollar Percentage - 
+
     * - PIC
       - The Person in Charge of the Promotion Code
     * - Description
