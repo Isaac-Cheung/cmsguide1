@@ -124,9 +124,12 @@ Users can input different criterion into the pop-up Advanced Search window to lo
          Confirmed - The Purchase Order is confirmed by The Vendor;
          Paid & Unreceived - The Purchase Order is Paid but not yet Received;
          Received & Unpaid - The Purchase Order is Unpaid but already Received;
-         Received & Unpaid & Variance - The Purchase Order is Unpaid and Received but Variance Exist with Received Quantities and Ordered Quantities
-         Received & Paid & Variance -  The Purchase Order is Paid and Received but Variance Exist with Received Quantities and Ordered Quantities;
-         Received & Paid & Merchandising Settled Variance - The Purchase Order is Paid and Received but Settled Variance Exist with Received Quantities and Ordered Quantities;
+         Received & Unpaid & Variance - The Purchase Order is Unpaid and Received but Variance Exist with Received 
+         Quantities and Ordered Quantities
+         Received & Paid & Variance -  The Purchase Order is Paid and Received but Variance Exist with Received Quantities 
+         and Ordered Quantities;
+         Received & Paid & Merchandising Settled Variance - The Purchase Order is Paid and Received but Settled Variance 
+         Exist with Received Quantities and Ordered Quantities;
          Closed - The Purchase Order is completed;
          Void - The Purchase Order is Voided"
 
