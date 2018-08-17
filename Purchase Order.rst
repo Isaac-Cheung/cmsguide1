@@ -229,12 +229,12 @@ Users can also click the “Edit” Button of the corresponding Purchase Order I
       -
     * - GR Status
       - 
-      - **Processing -** 
-         **Confirmed -**
-        **Arrived -**
-         **Received -**
-        **Received with Qty Variance -**
-         **Partial Received -**
+      - - Processing -
+        - Confirmed -
+        - rived -**
+        - Received -
+        - Received with Qty Variance -
+        - Partial Received -
          
     * - Amount Balance
       - There are two type of amount balance. The first one is "Previous Discrepancy", it affects "Bill Amount" but not "Product WAC". Another one is "Promotion Credits", it affects both "Bill Amount" and "Product WAC".
