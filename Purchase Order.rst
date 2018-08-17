@@ -224,10 +224,287 @@ Users can also click the “Edit” Button of the corresponding Purchase Order I
          **Received & Paid & Merchandising Settled Variance -** 
         **Closed -** 
          **Void -**
+    * - Order Discount Off(%)
+      - The Discount of The Purchase Order
+      -
+    * - GR Status
+      - 
+      - **Processing -** 
+         **Confirmed -**
+        **Arrived -**
+         **Received -**
+        **Received with Qty Variance -**
+         **Partial Received -**
+         
+    * - Amount Balance
+      - There are two type of amount balance. The first one is "Previous Discrepancy", it affects "Bill Amount" but not "Product WAC". Another one is "Promotion Credits", it affects both "Bill Amount" and "Product WAC".
+      - When balance type = Previous Discrepancy, bill amount = sum of product amount + balance amount; When balance type = Promotion Credits, bill amount = sum of product amount - balance amount
+    * - Is Sent?
+      - Select if The Purchase Order is sent
+      - 
+    * - Bill Amount
+      - The Billing Amount of The Purchase Order
+      -
+    * - Inbound Date
+      - The Inbounding Date of Products of The Purchase Order
+      -
+    * - Received Amount
+      - The Received Amount of Products of The Purchase Order
+      -
+    * - Supplier Invoice Amount
+      - The amount in supplier invoice, use to check is it same with bill amount
+      -
+    * - Payment Status
+      - The Payment Status of The Purchase Order
+      -
+    * - Paid Amount
+      - The Paid Amount of The Purchase Order
+      -
+    * - Created By
+      - The Person created The Purchase Order
+      -
+    * - Created At
+      - The Date of Creating The Purchase Order
+      -
+      
+Purchase Order Report
+==================
+Users can export Purchase Order Reports from the system by clicking on the “Tools” Button on top of the order list table, then select the type of report to be exported.
 
+|purorder_report|
+
+Purchase Order Report Headings
+------------------
+Purchase Order Report shows the detailed information of the selected order items exported in Excel File format.
+The table below lists out the headings users are going to see in the order reports with brief descriptions attached.
+
+Inbound List Report
+------------------
+Users can select “Export to Excel” from the dropdown list of the “Tools” button, it displays the details of how different Purchase Orders Items move into our warehouse.
+
+.. list-table:: Inbound List Report
+    :widths: 10 50
+    :header-rows: 1
+    :stub-columns: 1
+
+    * - FIELD NAME
+      - FIELD DESCRIPTIONS
+    * - ERP單號（採購訂單號）
+      - The Purchase Order ID
+    * - 入庫類型
+      - The Purchase Order Type
+    * - 供應商編號
+      - The Vendor Code
+    * - 貨品編號
+      - The Product ID
+    * - 入庫數量
+      - The Inbound Product Quantity
+    * - 預計收貨時間
+      - The Estimated Receiving Date of Purchase Order
+      
+Purchase Order Report
+------------------
+Users can select “Export Table List” from the dropdown list of the “Tools” button, it displays the details of different Purchase Orders.
+
+.. list-table:: Purchase Order Report
+    :widths: 10 50
+    :header-rows: 1
+    :stub-columns: 1
+
+    * - FIELD NAME
+      - FIELD DESCRIPTION
+    * - Order No.
+      - The Purchase Order ID
+    * - Order Date
+      - The Date of Purchase Order
+    * - Delivery Date
+      - The Date or Purchase Order Delivery
+    * - Cheque抬頭
+      - The Heading of The Cheque
+    * - Payment Terms
+      - The Payment Terms of Purchase Order
+    * - Vendor Code
+      - The Vendor ID
+    * - Vendor Name
+      - The Vendor Name
+    * - Contact Person
+      - The Contact Person of Vendor
+    * - Telephone
+      - The Telephone number of Vendor
+    * - Remarks
+      - The Additional Information of Purchase Order
+    * - Operation Remark
+      - The Additional Operation Information of Purchase Order
+    * - Order Amount
+      - The Order Amount of Purchase Order
+    * - Bill Amount
+      - The Bill Amount of Purchase Order
+    * - Received Amount
+      - The Received Amount of Purchase Order
+    * - Paid Amount
+      - The Paid Amount of Purchase Order
+    * - Supplier Invoice Amount
+      - The Invoice Amount of Supplier for The Purchase Order
+    * - Inbound date
+      - The Purchase Order Inbound Date
+    * - Status
+      - The Purchase Order Status
+    * - Sent To YF?
+      - need to send to warehouse (YF)
+    * - Account Ref
+      -
+    * - Created By
+      - The Person Created The Purchase Order
+      
+MYOB Purchase Order Report
+------------------
+Users can select “Export MYOB Import List” from the dropdown list of the “Tools” button, it displays ______________________________ .
+
+.. list-table:: MYOB Purchase Order Report
+    :widths: 10 50
+    :header-rows: 1
+    :stub-columns: 1
+
+    * - FIELD NAME
+      - FIELD DESCRIPTIONS
+    * - Addr 1 - Line 1
+      - The First Line of Address (Company Name)
+    * - Purchase #
+      - The Purchase Order ID
+    * - Date
+      - The Date of Purchase Order
+    * - Supplier Invoice #
+      - The Supplier Invoice ID
+    * - Delivery Status
+      -
+    * - Account #
+      -
+    * - Amount
+      -
+    * - Inc-Tax Amount
+      -
+    * - Journal Memo
+      -
+    * - Non-Tax Amount
+      -
+    * - Import Duty Amount
+      -
+    * - Freight Non-Tax Amount
+      -
+    * - Freight Import Duty Amount
+      -
+    * - Purchase Status
+      - 
+    * - Currency Code
+      - The Sales Currency of The Purchase Order
+    * - Exchange Rate
+      - The Exchange Rate of Currency to HKD
+    * - Terms - Payment is Due
+      -
+    * - - Discount Days
+      -
+    * - - Balance Due Days
+      -
+    * - - % Discount
+      -
+    * - Amount Paid
+      -
+    * - Card ID
+      -
+    * - Record ID
+      -
+    * - Promotion Credits
+      -
+      
+Vendor Issue Log Report
+------------------
+Users can select “Export Vendor Issue Log” from the dropdown list of the “Tools” button, it displays the details of different Purchase Orders.
+
+.. list-table:: Vendor Issue Log Report
+    :widths: 10 50
+    :header-rows: 1
+    :stub-columns: 1
+
+    * - FIELD NAME
+      - FIELD DESCRIPTIONS
+    * - Inbound date
+      - The Inbound Date of Purchase Order
+    * - Order No.
+      - The Purchase Order Number
+    * - Delivery Date
+      - The Date of Purchase Order Delivery
+    * - Item Code / Barcode
+      - The Product ID/Barcode in The Purchase Order
+    * - Payment Terms
+      - The Payment Terms of Purchase Order
+    * - Vendor Code
+      - The Vendor ID
+    * - Vendor Name
+      - The Vendor Name
+    * - Created by
+      - The Person Created The Purchase Order
+    * - Remarks
+      - The Additional Information of Purchase Order
+    * - Operation Remark
+      - The Additional Operation Information of Purchase Order
+    * - Account Ref
+      -
+    * - Order Amount
+      - The Order Amount of The Purchase Order
+    * - Bill Amount
+      - The Billing Amount of Purchase Order
+    * - Received Amount
+      - The Received Amount of Purchase Order
+    * - Paid Amount
+      - The Paid Amount of Purchase Order
+    * - Status
+      - 
+    * - Issue Type
+      -
+    * - Qty (units)
+      - The Quantity of Product Ordered in The Purchase Order
+    * - Merchant Comment
+      -
+    * - New PO No. for action
+      -
+    * - Change GR status to settled
+      -
+      
+Inbound List for WMS
+------------------
+Users can select “Export for WMS” from the dropdown list of the “Tools” button, it displays the details of different Purchase Orders for WMS.
+
+.. list-table:: Inbound List for WMS
+    :widths: 10 50
+    :header-rows: 1
+    :stub-columns: 1
+
+    * - FIELD NAME
+      - FIELD DESCRIPTIONS
+    * - Inbound Order SN
+      - The Inbound Purchase Order ID
+    * - Inbound Type
+      - The Type of Purchase Order
+    * - Vendor Name
+      - The Vendor Name
+    * - Item No
+      - The Product ID of Products in The Purchase Order
+    * - Qty
+      - The Quantity of The Product in The Purchase Order
+    * - Order Date
+      - The Date of Creating The Order
+    * - Delivery Date
+      - The Date of Purchase Order Delivery
+    * - Payment Terms
+      - The Purchase Order Terms of Payment
+    * - Order Amount
+      - The Total Order Amount of The Purchase Order
+    * - Case Size
+      - The Size of Purchase Order Case
 
 
 .. |purorder| image:: purorder.JPG
 .. |purorder_buttons| image:: purorder_buttons.JPG
 .. |purorder_create| image:: purorder_create.JPG
 .. |purorder_edit| image:: purorder_edit.JPG
+.. |purorder_report| image:: purorder_report.JPG
