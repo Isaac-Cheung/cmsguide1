@@ -6,14 +6,25 @@ Users can extract the Order Details generated from different Affiliate Partners 
 |Affiliatereportmodule|
 
 .. list-table:: Affiliate Report Module
-    :widths: 10 50
+    :widths: 10 50 50
     :header-rows: 1
     :stub-columns: 1
 
     * - FIELD NAME
       - FIELD DESCRIPTION
+      - DROPDOWN LIST
     * - Affiliate
       - The partners of Ztore making referral or promotions from their website to Ztore
+      - - All - 
+        - ChineseAN - 
+        - Clickwise - 
+        - Eat and Travel Weekly (10%) - 
+        - Eat and Travel Weekly (5%) - 
+        - GLOBALWIDEMEDIA - 
+        - i-price - 
+        - Optimise - 
+        - Shop.com - 
+
     * - Time Range
       - The Date Range of Information to be Extracted for The Affiliate Report
  
