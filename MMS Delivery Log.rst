@@ -44,10 +44,10 @@ Users can search for Delivery Log by clicking on the “Advanced Search” butto
       -
     * - MMS Pool Type
       - Type of events to send MMS
-      - "Order Delivery Confirmation - sent to customers to remind of order delivery
-        Promotion - sent to let customers know the promotions of Ztore
-        Typhoon - sent to remind customers that typhoon may affect the actual time of order delivery
-        Emergency -  sent to remind customers that some incidents, such as traffic accidents, happen and affect the actual time of order delivery"
+      - - Order Delivery Confirmation - sent to customers to remind of order delivery
+        - Promotion - sent to let customers know the promotions of Ztore
+        - Typhoon - sent to remind customers that typhoon may affect the actual time of order delivery
+        - Emergency -  sent to remind customers that some incidents, such as traffic accidents, happen and affect the actual time of order delivery"
 
 
 .. |mmsde| image:: mmsde.JPG
