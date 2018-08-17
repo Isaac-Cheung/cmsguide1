@@ -215,7 +215,7 @@ Users can also click the “Edit” Button of the corresponding Purchase Order I
     * - Order Status
       - The Order Status of The Purchase Order
       - " **Processing -**
-           **Submitted to Account -**
+        " **Submitted to Account -**
           **Confirmed -** 
            **Paid & Unreceived -** 
           **Received & Unpaid -** 
